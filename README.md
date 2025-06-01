@@ -19,3 +19,4 @@ This Power BI dashboard was built to analyze and visualize sales performance for
 
 ## Outcome
 Gained hands-on experience in BI reporting and data storytelling; delivered insights on e-commerce sales performance using interactive dashboards.
+![image](https://github.com/user-attachments/assets/ccd54862-cd7a-4831-8f01-44a6f946f845)
